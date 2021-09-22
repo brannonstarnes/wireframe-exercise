@@ -1,0 +1,77 @@
+
+header{
+    background-color: rgb(92, 96, 104);
+    width: 100vw;
+    padding: 10px;
+    box-sizing: border-box;
+}
+nav {
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+    left: 15%;
+    padding-right: 100px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(167, 167, 167)
+}
+.logo{
+    position: relative;
+    left: 10%;
+    box-sizing: border-box;
+}
+#hero{
+    display: inline-block;
+    position: relative;
+    left: 8.3%;
+    margin: 30px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+div{
+    display: inline-block;
+    position: relative;
+    left:9.6%;
+    margin: 15px;
+    box-sizing: border-box;
+}
+container{
+    display: block;
+    margin-top: 0;
+    box-sizing: border-box;
+}
+
+section{
+    display: inline-block;
+    font-size: larger;
+    box-sizing: border-box;
+    position:relative;
+    left: 9.6%;
+    margin:15px;
+}
+#scrollMe{
+    display: inline-block;
+    max-width: 480px;
+    max-height: 235px;
+    position: relative;
+    bottom: 10px;
+    margin-top: 12px;
+    box-sizing: border-box;
+}
+section heading{
+    font-size: x-large;
+    font-weight: bold;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+p{
+    overflow: scroll;
+    box-sizing: border-box;
+}
+button{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    box-sizing: border-box;
+}
